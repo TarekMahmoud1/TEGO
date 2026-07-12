@@ -1,79 +1,102 @@
 # TEGO
 
-> A Web3 community project built around simplicity, honest communication and steady progress.
+AI Workspace for Robinhood Chain
 
-[![Website](https://img.shields.io/badge/Website-tegothetiger.xyz-orange)](https://tegothetiger.xyz)
-[![Twitter](https://img.shields.io/badge/Twitter-@TegoTheTiger-1DA1F2)](https://x.com/TegoTheTiger)
-[![Telegram](https://img.shields.io/badge/Telegram-TEGO%20Quest-2CA5E0)](https://t.me/TEGOQuest_bot)
-[![GitHub](https://img.shields.io/badge/GitHub-TarekMahmoud1-181717)](https://github.com/TarekMahmoud1)
+Website | X | Telegram | AI Workspace | GitHub | Whitepaper
 
 ---
 
-## What is TEGO?
+# What is TEGO?
 
-TEGO is a digital community project built around a utility token and a growing product suite. Rather than focusing on short-term noise, TEGO is designed to create a clear direction, real user interaction and lasting community value.
+TEGO is an AI-powered workspace built for Robinhood Chain, helping Web3 teams plan, document, and grow their projects with AI.
 
-The project includes:
+Instead of spending days creating documentation manually, TEGO generates professional Web3 content based on your project information through its Smart Knowledge Engine.
 
-- **TEGO Token** — a utility-driven digital asset designed to support engagement, participation and progression
-- **TEGO Quest** — a gamified Telegram Mini App where users complete daily tasks, earn points, build streaks and compete on leaderboards
+The platform currently includes:
 
-TEGO operates with a small, focused team committed to building real products and maintaining honest communication at every stage.
+- Whitepaper Studio — Generate structured, investor-ready whitepapers.
+- Tokenomics Studio — Build token distribution models and utility frameworks.
+- Roadmap Planner — Create milestone-based development roadmaps.
+- Marketing Studio — Generate announcements, social content, and launch campaigns.
+- Project Audit — Review project readiness and identify areas for improvement.
+- Smart Knowledge Engine — Personalized document generation based on project inputs.
 
 ---
 
-## Official Links
+# Official Links
 
 | Resource | Link |
-|---|---|
+|----------|------|
 | Website | https://tegothetiger.xyz |
-| Twitter / X | https://x.com/TegoTheTiger |
-| Telegram (TEGO Quest) | https://t.me/TEGOQuest_bot |
+| X | https://x.com/TegoTheTiger |
+| Telegram | https://t.me/TEGOTiger |
+| AI Workspace | https://t.me/TEGOQuest_bot |
 | GitHub | https://github.com/TarekMahmoud1 |
-| Business Contact | business@tegothetiger.xyz |
+| Whitepaper | https://drive.google.com/file/d/1HdAFxxcPRVYqZGl3siwgruV4vxiCATSD/view |
 
 ---
 
-## Team
+# Team
 
-### Tarek Mahmoud — Founder & Lead Developer
-Leads technical vision and product development. Built the core infrastructure including the TEGO Quest Mini App and directs the project roadmap.
+### Tarek Mahmoud — Founder
 
-**Responsibilities:** Product Development · Technical Direction · Project Strategy
+Leads product strategy and platform development, focusing on AI-powered tools for Web3 builders and the long-term vision of TEGO.
+
+**Responsibilities**
+
+- Product Strategy
+- Platform Development
+- AI Workspace
+- Technical Direction
+
+---
 
 ### Alex Isaac — Co-Founder
-Oversees community operations, growth strategy and partnerships. Builds real relationships in Web3 and keeps the community engaged and informed.
 
-**Responsibilities:** Community Operations · Growth Initiatives · Strategic Partnerships
+Leads ecosystem growth, community development, strategic partnerships, and business expansion.
 
----
+**Responsibilities**
 
-## Project Status
-
-| Area | Status |
-|---|---|
-| Website | Live |
-| TEGO Quest Mini App (MVP) | Live |
-| Platform Stabilization | In Progress (June 2026) |
-| TEGO Token Launch | Planned (July 2026 target) |
-| Initial Exchange Listing | Planned (July 2026 target) |
-| On-Chain Integration | Planned (August 2026) |
-| Security Audit | Planned |
+- Community Growth
+- Partnerships
+- Business Development
+- Ecosystem Expansion
 
 ---
 
-## Documentation
+# Platform Status
+
+| Module | Status |
+|---------|--------|
+| Website | ✅ Live |
+| AI Workspace | ✅ Live (Beta) |
+| Whitepaper Studio | ✅ Live |
+| Tokenomics Studio | ✅ Live |
+| Roadmap Planner | ✅ Live |
+| Marketing Studio | ✅ Live |
+| Project Audit | ✅ Live |
+| Smart Knowledge Engine | 🚧 Under Continuous Improvement |
+| Multi-language Support | 📅 Planned |
+| Additional AI Modules | 📅 Planned |
+
+---
+
+# Documentation
 
 | File | Description |
-|---|---|
-| [ROADMAP.md](./ROADMAP.md) | Full development roadmap with milestone history |
-| [CHANGELOG.md](./CHANGELOG.md) | Recent updates and release notes |
-| [docs/overview.md](./docs/overview.md) | Detailed project overview |
-| [docs/faq.md](./docs/faq.md) | Frequently asked questions |
-| [docs/ecosystem.md](./docs/ecosystem.md) | Partners and ecosystem connections |
+|------|-------------|
+| README.md | Project overview |
+| WHITEPAPER.pdf | Official whitepaper |
+| ROADMAP.md | Product roadmap |
+| CHANGELOG.md | Release history |
+| docs/ | Technical and platform documentation |
 
 ---
 
-## Disclaimer
+# Disclaimer
 
-TEGO is a digital asset project. Participation involves financial risk. This documentation is for informational purposes only and does not constitute financial or investment advice. Always do your own research (DYOR) before making any investment decisions.
+TEGO provides AI-powered tools to assist with Web3 project planning and documentation.
+
+Generated content is intended as a starting point and should be reviewed before use in production, legal, financial, or investment contexts.
+
+Users remain responsible for verifying the accuracy and suitability of all generated materials.
