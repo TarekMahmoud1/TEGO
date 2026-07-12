@@ -1,67 +1,92 @@
-Platform Roadmap
-Building the AI Operating System for Founders
-A transparent view of where we've been, what we're shipping now, and where TEGO is heading. Optimized for Robinhood Chain.
+# TEGO Changelog
 
-2 of 5 phases complete
-40%
-Foundation
+All notable updates to the TEGO AI Workspace are documented here. Entries are listed in reverse chronological order.
 
-Q1 2026
-Completed
-TEGO concept and vision established
-AI-powered Web3 platform planning
-Brand identity creation
-Website V1 launch
-Community building initiated
-Core AI architecture research
-Core Development
+---
 
-Q2 2026
-Completed
-AI Workspace core development
-AI Launch Kit MVP
-Whitepaper Generator
-Roadmap Generator
-Marketing Generator
-Internal testing & closed beta
-User feedback & optimization
-Public Launch
+## [Unreleased]
 
-Q3 2026
-In Progress
-Public launch of TEGO AI Workspace
-AI Project Audit tool
-Investor Readiness Report
-Tokenomics Analyzer
-Growth Planner
-Competitor Analysis
-Community expansion
-Strategic partnerships
-Security audit
-Token Generation Event (TGE)
-DEX Launch
-Initial TEGO token utility
-Ecosystem Growth
+### Planned
 
-Q4 2026
-Planned
-Wallet integration
-AI Workspace V2
-Team collaboration features
-Project templates library
-Community reward system
-API integrations
-First CEX listing
-Ecosystem expansion
-Scale & Enterprise
+- AI Workspace V2
+- Team collaboration features
+- Wallet integration
+- Project templates library
+- Community reward system
+- Developer API
+- Multi-language support
+- Advanced AI capabilities
+- Performance and UI improvements
 
-2027
-Planned
-Mobile application
-Multi-chain support
-Advanced AI Agents
-Enterprise Workspace
-Developer API
-Premium subscription tiers
-Global partnerships
-Continuous AI innovation
+---
+
+## [2.0.0] — Q3 2026
+
+### Public Launch
+
+#### Platform
+
+- Public launch of the TEGO AI Workspace.
+- Released AI Project Audit.
+- Released Investor Readiness Report.
+- Added Tokenomics Analyzer.
+- Added Growth Planner.
+- Added Competitor Analysis.
+- Improved Smart Knowledge Engine.
+- Enhanced document personalization.
+
+#### Ecosystem
+
+- Community expansion.
+- Strategic partnerships.
+- Security audit.
+- Token Generation Event (TGE).
+- DEX launch.
+- Initial TEGO token utility.
+
+---
+
+## [1.5.0] — Q2 2026
+
+### Core Development
+
+#### Product
+
+- AI Workspace core development completed.
+- Released AI Launch Kit MVP.
+- Released Whitepaper Generator.
+- Released Roadmap Generator.
+- Released Marketing Generator.
+- Internal testing completed.
+- Closed beta launched.
+- User feedback integrated into the platform.
+
+#### Infrastructure
+
+- Smart Knowledge Engine V1 completed.
+- Improved platform performance.
+- Optimized generation workflow.
+- Backend architecture improvements.
+
+---
+
+## [1.0.0] — Q1 2026
+
+### Foundation
+
+#### Core
+
+- TEGO concept and vision established.
+- AI-powered Web3 platform planning completed.
+- Brand identity created.
+- Website V1 launched.
+- Community building initiated.
+- Core AI architecture research completed.
+
+---
+
+## Format
+
+This changelog follows a simplified **Keep a Changelog** structure.
+
+Version numbers represent major platform milestones aligned with the official TEGO Platform Roadmap.
