@@ -2,123 +2,199 @@
 
 ---
 
-## General
+# General
 
-### What is TEGO?
+## What is TEGO?
 
-TEGO is a Web3 project built around simplicity, engagement and real value. It includes a digital token and TEGO Quest, a gamified Telegram Mini App where users complete daily tasks and earn rewards.
+TEGO is an AI workspace built for Robinhood Chain that helps Web3 teams plan, document, and grow their projects.
 
-### Who is behind TEGO?
-
-TEGO is built by a two-person founding team:
-
-- **Tarek Mahmoud** — Founder & Lead Developer. Responsible for technical direction, product development and the project roadmap.
-- **Alex Isaac** — Co-Founder. Oversees community operations, growth strategy and partnerships.
-
-### Where is TEGO based?
-
-TEGO is a globally distributed Web3 project with no single geographic headquarters.
-
-### How do I follow updates?
-
-- Twitter/X: [@TegoTheTiger](https://x.com/TegoTheTiger)
-- Telegram: [t.me/TEGOQuest_bot](https://t.me/TEGOQuest_bot)
-- Website updates page: https://tegothetiger.xyz/updates
+The platform generates whitepapers, tokenomics, roadmaps, marketing content, project audits, and other documentation based on your project information.
 
 ---
 
-## TEGO Quest
+## Who is behind TEGO?
 
-### What is TEGO Quest?
+TEGO is built by a two-person founding team.
 
-TEGO Quest is a gamified Telegram Mini App that turns daily activity into progression. Users complete tasks, earn points, build streaks and compete on leaderboards. It's the first live product in TEGO.
+**Tarek Mahmoud — Founder**
 
-**Access it here:** [t.me/TEGOQuest_bot](https://t.me/TEGOQuest_bot)
+Responsible for product strategy, platform development, and technical direction.
 
-### How does TEGO Quest work?
+**Alex Isaac — Co-Founder**
 
-TEGO Quest runs on a simple loop:
-
-1. **Complete daily tasks** — straightforward daily actions
-2. **Earn points** — accumulate XP and progress through levels
-3. **Build streaks** — stay consistent to multiply rewards
-4. **Compete** — climb the community leaderboard
-
-### Is TEGO Quest free to use?
-
-Yes. TEGO Quest is free to access and participate in via Telegram.
-
-### What rewards can I earn?
-
-The current MVP awards points and streak progression. Token-based rewards and deeper utility will be added progressively as the TEGO token launches and integrations expand.
+Leads community growth, partnerships, and ecosystem development.
 
 ---
 
-## TEGO Token
+## Which blockchain does TEGO support?
 
-### How does the TEGO token work?
+TEGO is currently optimized for Robinhood Chain.
 
-TEGO is designed as a utility token, supporting engagement, participation and progression through TEGO Quest and future features. Tokenomics are published in the Token Overview section on the homepage: https://tegothetiger.xyz
-
-### Where can I buy TEGO?
-
-Token launch and listing info will be announced through official channels. Follow [@TegoTheTiger](https://x.com/TegoTheTiger) on Twitter/X and [Telegram](https://t.me/TEGOQuest_bot) for announcements.
-
-### What is the total token supply?
-
-Token supply and distribution details are in the Token Overview section on the homepage. There are no hidden allocations.
-
-### Is the team allocation locked?
-
-Yes. Team allocation is structured with long-term commitment in mind, incorporating lock mechanisms to ensure alignment and stability.
-
-### When is the token launching?
-
-The TEGO token launch is targeted for July 2026. Follow official channels for confirmed announcements.
+Support for additional blockchain ecosystems is planned as the platform evolves.
 
 ---
 
-## Security & Transparency
+## How do I follow project updates?
 
-### Is TEGO audited?
+Website
 
-A third-party security audit is planned as part of the development roadmap. Current security status is disclosed honestly on the Security page: https://tegothetiger.xyz/security
+https://tegothetiger.xyz
 
-### How transparent is the project?
+X
 
-TEGO publishes all major decisions publicly before implementation. Progress is tracked through the public roadmap and updates page. Issues and setbacks are reported openly rather than hidden.
+https://x.com/TegoTheTiger
 
-See the full Transparency page: https://tegothetiger.xyz/transparency
+Telegram
 
-### Where can I review the project's development history?
+https://t.me/TEGOTiger
 
-- Public GitHub: https://github.com/TarekMahmoud1
-- Updates page: https://tegothetiger.xyz/updates
-- This repository: [CHANGELOG.md](../CHANGELOG.md) / [ROADMAP.md](../ROADMAP.md)
+GitHub
 
----
-
-## Community & Contact
-
-### How do I get involved?
-
-Join the Telegram community and follow on Twitter/X. Participate in TEGO Quest, share feedback and help grow the project.
-
-- Telegram: [t.me/TEGOQuest_bot](https://t.me/TEGOQuest_bot)
-- Twitter/X: [@TegoTheTiger](https://x.com/TegoTheTiger)
-
-### How do I contact the team?
-
-- **Business inquiries & partnerships:** business@tegothetiger.xyz
-- **General questions:** Contact page at https://tegothetiger.xyz/contact
-- **Community support:** Telegram community
-
-### What kind of partnership requests does TEGO accept?
-
-TEGO considers collaboration opportunities, integrations and partnership proposals. Reach out via business@tegothetiger.xyz with details.
+https://github.com/TarekMahmoud1
 
 ---
 
-## Risk Disclaimer
+# AI Workspace
 
-Digital assets involve significant risk. Token values can fluctuate substantially and past performance is not indicative of future results. Always do your own research (DYOR) before making any investment decisions. Nothing in this documentation constitutes financial advice.
+## What can I generate?
+
+The AI Workspace currently supports:
+
+- Whitepapers
+- Tokenomics
+- Roadmaps
+- Marketing Content
+- Project Audits
+- Investor Readiness Reports
+
+More AI tools will be added over time.
+
+---
+
+## How does the AI Workspace work?
+
+Simply enter your project information.
+
+The Smart Knowledge Engine analyzes your inputs and generates documentation based on your project's category, blockchain, business model, audience, and goals.
+
+---
+
+## Does TEGO use AI?
+
+Yes.
+
+TEGO uses its Smart Knowledge Engine to generate structured Web3 documentation and planning materials tailored to your project.
+
+---
+
+## Is the platform free?
+
+The current beta version is available for public testing.
+
+Future premium features may be introduced as the platform expands.
+
+---
+
+# Robinhood Chain
+
+## Why is TEGO built for Robinhood Chain?
+
+TEGO is designed to simplify project creation for builders within the Robinhood Chain ecosystem by providing AI-powered documentation and planning tools.
+
+---
+
+## Will other blockchains be supported?
+
+Yes.
+
+Support for additional blockchain ecosystems is planned in future releases.
+
+---
+
+# Token
+
+## Does TEGO have a token?
+
+Yes.
+
+The TEGO token is planned as a utility token supporting future platform features and ecosystem participation.
+
+---
+
+## Where can I find the tokenomics?
+
+The latest token allocation and utility information are available in the official Whitepaper and on the TEGO website.
+
+---
+
+## Has the token launched?
+
+Not yet.
+
+Launch details will be announced through the official communication channels.
+
+---
+
+# Security
+
+## Is TEGO audited?
+
+A security audit is planned as part of the product roadmap.
+
+Audit updates will be shared through official channels.
+
+---
+
+## Is my project information secure?
+
+User privacy and platform security are priorities.
+
+Security improvements continue as the platform evolves.
+
+---
+
+# Community
+
+## How can I join the community?
+
+Telegram
+
+https://t.me/TEGOTiger
+
+X
+
+https://x.com/TegoTheTiger
+
+---
+
+## How can I contact the team?
+
+Business inquiries
+
+business@tegothetiger.xyz
+
+General information
+
+https://tegothetiger.xyz
+
+---
+
+## Can I partner with TEGO?
+
+Yes.
+
+We welcome partnership opportunities across AI, Web3, infrastructure, developer tools, and ecosystem growth.
+
+Please contact:
+
+business@tegothetiger.xyz
+
+---
+
+# Disclaimer
+
+TEGO provides AI-powered tools to assist Web3 teams with planning and documentation.
+
+Generated content should always be reviewed before use in legal, financial, technical, or investment contexts.
+
+Nothing in the platform or documentation constitutes financial or investment advice.
